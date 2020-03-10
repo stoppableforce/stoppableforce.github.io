@@ -3,8 +3,8 @@ layout: post
 title: The Junpei story
 date: 2018-11-27 13:32:20 +0300
 description: In which I explain a long-held grudge against Persona 3's most lovable doofus.
-img: junpei/JunpeiPQ.png 
-fig-caption: Look at this doofus, I swear
+img: junpei/P3M_Winter_of_Rebirth_Countdown_03.jpg 
+fig-caption: is it weird to have a grudge against a fictional character? anyway.
 tags: [ps2, persona 3, persona 3 fes]
 ---
 
