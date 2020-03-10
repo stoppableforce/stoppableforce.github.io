@@ -4,7 +4,7 @@ title: Taking Control
 date: 2019-10-21 13:32:20 +0300
 description: Waxing poetic about my GOTY 2019, Remedy Games' _Control_.
 img: control/48937795077_0840ce42d9_o.jpg # Add image post (optional)
-fig-caption: Waxing poetic about my GOTY 2019, Remedy Games' _Control_.
+fig-caption: The most satisfying superpower in video games.
 tags: [ps4, control]
 ---
 
