@@ -3,8 +3,8 @@ layout: post
 title: The Junpei story
 date: 2018-11-27 13:32:20 +0300
 description: In which I explain a long-held grudge against Persona 3's most lovable doofus.
-img: junpei/JunpeiPQ.png # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: junpei/JunpeiPQ.png 
+fig-caption: In which I explain a long-held grudge against Persona 3's most lovable doofus.
 tags: [ps2, persona 3, persona 3 fes]
 ---
 
