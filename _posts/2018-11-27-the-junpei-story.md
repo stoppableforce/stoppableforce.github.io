@@ -49,5 +49,3 @@ Nyx Avatar promptly kills all of us, wasting the last hour of my life.
 **THANKS A LOT, JUNPEI IORI**
 
 ![you miserable dingus](/assets/img/junpei/junpei.png)
-
-#persona3 #persona3fes #ps2

@@ -51,5 +51,3 @@ Also, on an original PS4 like mine, there are some performance issues - you'll g
 Anyway, I loved this game. I plunged headfirst into the FBC and came out the other side ready for whatever they have to throw at me, which sounds like [a new challenge mode and two larger story-focused expansions next year](https://controlgame.com/control-community-blog-whats-new/), and I can't wait to get back into this game's universe - for now I'll just have to settle for thinking about it, booting it back up to get a collectible that I missed (there aren't many), and making my wife laugh by lapsing into uncanny imitations of Director Trench.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZbehvXVKPEs?start=46" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#ps4 #control
