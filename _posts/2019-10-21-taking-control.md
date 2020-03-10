@@ -8,8 +8,6 @@ fig-caption: Waxing poetic about my GOTY 2019, Remedy Games' _Control_.
 tags: [ps4, control]
 ---
 
-![Image of Jesse using the Launch power, from controlgame.com](/assets/img/control/48937795077_0840ce42d9_o.jpg)
-
 [_Mild spoilers for Control follow_]
 
 I recently (based on trophy dates, anyway) spent about a month with Remedy Games' [Control](https://controlgame.com). On October 16th, I finished its last story mission and got the last silly trophy (making this one of the few games I've gotten the coveted and rare platinum trophy on - something only 9.2% of Control's PS4 players have done) by finally upgrading my never-used melee ability. I'm anxiously looking forward to the DLC when it comes out, hoping it'll answer some of my niggling questions from the story - like _where did Helen Marshall vanish to?_ - but I'm not exaggerating when I say that even in a year with releases like Fire Emblem: Three Houses, Bloodstained, a critically-acclaimed expansion for Final Fantasy XIV, and more, Control is probably my game of the year unless something just completely blows me away in the next two months.
