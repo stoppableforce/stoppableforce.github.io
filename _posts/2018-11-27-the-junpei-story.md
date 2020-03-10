@@ -8,8 +8,6 @@ fig-caption: In which I explain a long-held grudge against Persona 3's most lova
 tags: [ps2, persona 3, persona 3 fes]
 ---
 
-![is it weird to have a grudge against a fictional character](/assets/img/junpei/JunpeiPQ.png)
-
 When Persona 3 came out, I actually managed to miss it entirely somehow. I didn’t catch onto it until 2008, when I was browsing RPGs in Gamestop (remember physically going to Gamestop for anything besides the used game sale at the end of the year? _Wouldn’t you like to put five bucks on a preorder? Wouldn’t you??_) and the girl who worked there, who I frequently chatted about RPGs with, mentioned Persona 3 FES had just arrived and was downright shocked that I hadn’t heard of it yet. I was super stoked to see one of my unsung classic franchises revived and so I bought it immediately, having nothing but the word of a hyperactive game store clerk to go on to guarantee it was good.
 
 What I got was what people now think of as modern-day Persona: a colorful cast of high school misfits who wake up, go to school, then save the world. Dungeon crawling with visual novel elements that then fed back into the dungeon crawling. It’s like someone read my mind. However, along with this came the weird decision that came with all versions of Persona 3 that weren’t portable: the inability to directly control your AI party members.
