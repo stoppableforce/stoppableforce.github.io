@@ -11,16 +11,11 @@ author: stoppableforce # add your name
 author-img: zangoose-avatar.png # add your photo
 about-author: Software developer by day, game developer by night. Terrible puns available 24/7. # add description
 social-twitter: stoppableforce # add your Twitter handle
-social-facebook: # add your Facebook handle
 social-github: stoppableforce # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
-
-# Disqus
-discus-identifier: # add your discus identifier
+social-twitch: thestoppableforce
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-2269933-10 # Google Analytics
 
 # Build Settings
 markdown: kramdown
