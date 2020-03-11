@@ -2,7 +2,7 @@
 layout: post
 title: Three recent reads
 date: 2019-01-15 16:11:59 -0500
-description: "Some recent reading on game development: enemy scaling, being gentle, and how damn good DQV really was.""
+description: "Some recent reading on game development: enemy scaling, being gentle, and how damn good DQV really was."
 img: three-reads/goblins.png
 fig-caption: Or, how not to need palette swaps
 tags: [game development, game design, tools]
