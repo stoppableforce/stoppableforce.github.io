@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shmup research
-date:2018-12-03 11:44:14 -0500
+date: 2018-12-03 11:44:14 -0500
 description: Some notes on shoot-em-up games.
 img: be-attitude-for-gains.png 
 fig-caption: exceptional life advice right here
