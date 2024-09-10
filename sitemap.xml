@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://stoppableforce.github.io/eleventy-base-blog/blog/helloworld/</loc>
+		<loc>https://stoppableforce.github.io/blog/helloworld/</loc>
 		<lastmod>2024-09-10</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://stoppableforce.github.io/eleventy-base-blog/about/</loc>
+		<loc>https://stoppableforce.github.io/about/</loc>
 		<lastmod>2024-09-10</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://stoppableforce.github.io/eleventy-base-blog/blog/</loc>
+		<loc>https://stoppableforce.github.io/blog/</loc>
 		<lastmod>2024-09-10</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://stoppableforce.github.io/eleventy-base-blog/</loc>
+		<loc>https://stoppableforce.github.io/</loc>
 		<lastmod>2024-09-10</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://stoppableforce.github.io/eleventy-base-blog/tags/</loc>
+		<loc>https://stoppableforce.github.io/tags/</loc>
 		<lastmod>2024-09-10</lastmod>
 	</url>
 </urlset>
