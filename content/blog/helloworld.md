@@ -1,5 +1,7 @@
 ---
 title: hello world
+tags:
+  - meta
 date: 2024-09-10
 draft: false
 ---
