@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
-	<title>localpost</title>
+	<title>notes.awaymesage.club</title>
 	<subtitle>bring back blogs</subtitle>
-	<link href="https://stoppableforce.github.io/feed/feed.xml" rel="self"/>
-	<link href="https://stoppableforce.github.io/"/>
+	<link href="https://notes.awaymessage.club/feed/feed.xml" rel="self"/>
+	<link href="https://notes.awaymessage.club/"/>
 	<updated>2024-09-10T00:00:00Z</updated>
-	<id>https://stoppableforce.github.io/</id>
+	<id>https://notes.awaymessage.club/</id>
 	<author>
 		<name>stoppableforce</name>
 		<email>phil.ulrich@gmail.com</email>
@@ -13,10 +13,10 @@
 	
 	<entry>
 		<title>hello world</title>
-		<link href="https://stoppableforce.github.io/blog/helloworld/"/>
+		<link href="https://notes.awaymessage.club/blog/helloworld/"/>
 		<updated>2024-09-10T00:00:00Z</updated>
-		<id>https://stoppableforce.github.io/blog/helloworld/</id>
-		<content type="html">&lt;p&gt;&lt;img src=&quot;https://stoppableforce.github.io/img/uploads/1000xresist.jpg&quot; alt=&quot;screenshot from the Bartender from 1000xRESIST asking &amp;quot;What can I load up for you?&amp;quot;&quot;&gt;&lt;/p&gt;
+		<id>https://notes.awaymessage.club/blog/helloworld/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://notes.awaymessage.club/img/uploads/1000xresist.jpg&quot; alt=&quot;screenshot from the Bartender from 1000xRESIST asking &amp;quot;What can I load up for you?&amp;quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Firing up this whole &amp;quot;blog&amp;quot; thing again. On some level I realize that a lot of it probably involves gradually making it easier for myself as opposed to cool static site generators that are just kind of a slog to even get a post into, but dangit, I&#39;m trying.&lt;/p&gt;
 &lt;p&gt;Working with a combination of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; and &lt;a href=&quot;https://decapcms.org/&quot;&gt;DecapCMS&lt;/a&gt;, and this is pretty cool - it&#39;s the kind of thing I&#39;d probably slow-roll for myself (or, more realistically, start making and then kinda flake out on finishing).&lt;/p&gt;
 </content>
