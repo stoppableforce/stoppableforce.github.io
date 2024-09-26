@@ -97,6 +97,9 @@ module.exports = function(eleventyConfig) {
 		return (new Date()).toISOString();
 	})
 
+	// Passthrough config to stop CNAME from being overwritten on Github Pages
+	eleventyConfig.addPassthroughCopy("CNAME");
+
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
