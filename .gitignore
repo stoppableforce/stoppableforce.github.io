@@ -1,4 +1,5 @@
 _site/
+!_site/admin/
 node_modules/
 package-lock.json
 .cache
