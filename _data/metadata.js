@@ -1,5 +1,5 @@
 module.exports = {
-	title: "notes.awaymesage.club",
+	title: "notes.awaymessage.club",
 	url: "https://notes.awaymessage.club/",
 	language: "en",
 	description: "bring back blogs",
