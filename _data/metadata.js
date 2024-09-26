@@ -1,11 +1,11 @@
 module.exports = {
-	title: "localpost",
-	url: "https://stoppableforce.github.io/",
+	title: "notes.awaymesage.club",
+	url: "https://notes.awaymessage.club/",
 	language: "en",
 	description: "bring back blogs",
 	author: {
 		name: "stoppableforce",
 		email: "phil.ulrich@gmail.com",
-		url: "https://stoppableforce.github.io"
+		url: "https://notes.awaymessage.club"
 	}
 }
