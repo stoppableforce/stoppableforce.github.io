@@ -16,7 +16,9 @@
 		<link href="https://stoppableforce.github.io/blog/helloworld/"/>
 		<updated>2024-09-10T00:00:00Z</updated>
 		<id>https://stoppableforce.github.io/blog/helloworld/</id>
-		<content type="html">&lt;p&gt;hello github pages! you can&#39;t get rid of me that easily! &lt;em&gt;I&#39;m baaaaaack&lt;/em&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;&lt;img src=&quot;https://stoppableforce.github.io/img/uploads/1000xresist.jpg&quot; alt=&quot;screenshot from the Bartender from 1000xRESIST asking &amp;quot;What can I load up for you?&amp;quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Firing up this whole &amp;quot;blog&amp;quot; thing again. On some level I realize that a lot of it probably involves gradually making it easier for myself as opposed to cool static site generators that are just kind of a slog to even get a post into, but dangit, I&#39;m trying.&lt;/p&gt;
+&lt;p&gt;Working with a combination of &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; and &lt;a href=&quot;https://decapcms.org/&quot;&gt;DecapCMS&lt;/a&gt;, and this is pretty cool - it&#39;s the kind of thing I&#39;d probably slow-roll for myself (or, more realistically, start making and then kinda flake out on finishing).&lt;/p&gt;
 </content>
 	</entry>
 </feed>

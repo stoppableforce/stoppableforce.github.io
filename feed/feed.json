@@ -14,7 +14,7 @@
 			"id": "https://stoppableforce.github.io/blog/helloworld/",
 			"url": "https://stoppableforce.github.io/blog/helloworld/",
 			"title": "hello world",
-			"content_html": "<p>hello github pages! you can't get rid of me that easily! <em>I'm baaaaaack</em></p>\n",
+			"content_html": "<p><img src=\"https://stoppableforce.github.io/img/uploads/1000xresist.jpg\" alt=\"screenshot from the Bartender from 1000xRESIST asking &quot;What can I load up for you?&quot;\"></p>\n<p>Firing up this whole &quot;blog&quot; thing again. On some level I realize that a lot of it probably involves gradually making it easier for myself as opposed to cool static site generators that are just kind of a slog to even get a post into, but dangit, I'm trying.</p>\n<p>Working with a combination of <a href=\"https://www.11ty.dev/\">11ty</a> and <a href=\"https://decapcms.org/\">DecapCMS</a>, and this is pretty cool - it's the kind of thing I'd probably slow-roll for myself (or, more realistically, start making and then kinda flake out on finishing).</p>\n",
 			"date_published": "2024-09-10T00:00:00Z"
 		}
 		
