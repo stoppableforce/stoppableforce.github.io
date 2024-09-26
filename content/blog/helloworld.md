@@ -2,6 +2,7 @@
 title: hello world
 tags:
   - meta
+  - blogging
 date: 2024-09-10
 draft: false
 ---
