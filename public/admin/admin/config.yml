@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: stoppableforce/stoppableforce.github.io
+  branch: main
+  api_root: https://api.github.com
+  site_domain: stoppableforce.github.io
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+  cms_label_prefix: decap-cms/
+
+media_folder: "public/img/uploads"
+public_folder: "/img/uploads"
+
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Public Date", name: "date", widget: "datetime", default: "{{now}}", date_format: "YYYY-MM-DD", time_format: "HH:mm", format: "LLL", picker_utc: false }
+      - { label: "Draft?", name: "draft", widget: "boolean", default: true }
