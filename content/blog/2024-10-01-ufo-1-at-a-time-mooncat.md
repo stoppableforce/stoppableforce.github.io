@@ -3,7 +3,7 @@ title: "UFO 1 at a time: Mooncat"
 tags:
   - UFO 50
   - Mooncat
-date: 2024-10-01 12:42 PM
+date: 2024-10-01
 draft: false
 ---
 I've been having a lot of fun with [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/), although the first game I randomly picked out of the 50 was certainly an... interesting experience. (As an aside: does anyone else have the same feeling with UFO 50 that they do with those 1000-in-1 multicarts, or an emulator full of ROMs, that there are just so many options that you have issues picking what to play first?) 
