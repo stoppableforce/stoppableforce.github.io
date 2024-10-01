@@ -99,8 +99,6 @@ module.exports = function(eleventyConfig) {
 
 	// Passthrough config to stop CNAME from being overwritten on Github Pages
 	eleventyConfig.addPassthroughCopy("CNAME");
-	// Also to install DecapCMS
-	eleventyConfig.addPassthroughCopy("admin");
 
 	// Features to make your build faster (when you need them)
 
