@@ -34,6 +34,7 @@
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 	</head>
 	<body>
+		<script src="https://kit.fontawesome.com/b5a8721916.js" crossorigin="anonymous"></script>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
@@ -46,6 +47,7 @@
 				{%- for entry in collections.all | eleventyNavigation %}
 					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
 				{%- endfor %}
+				<li class="nav-item"><a href="/feed.xml"><i class="fa-solid fa-rss"></i></a></li>
 				</ul>
 			</nav>
 		</header>
