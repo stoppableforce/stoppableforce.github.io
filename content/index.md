@@ -1,5 +1,6 @@
 ---
 title: Phil's daily notes
+date: 2024-12-21
 ---
 
 - [2024-12-21](2024-12-21.md)
