@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Sidelinks({
       links: {
+        "Subscribe via RSS": "https://notes.awaymessage.club/index.xml",
         Mastodon: "https://awaymessage.club/@stoppableforce",
         Bluesky: "https://bsky.app/profile/awaymessage.club",
         Github: "https://github.com/stoppableforce",
@@ -54,6 +55,7 @@ export const defaultListPageLayout: PageLayout = {
   right: [
     Component.Sidelinks({
       links: {
+        "Subscribe via RSS": "https://notes.awaymessage.club/index.xml",
         Mastodon: "https://awaymessage.club/@stoppableforce",
         Bluesky: "https://bsky.app/profile/awaymessage.club",
         Github: "https://github.com/stoppableforce",
