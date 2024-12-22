@@ -8,10 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
-  }),
+  })
 }
 
 // components for pages that display a single page (e.g. a single note)
@@ -30,6 +28,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    Component.Sidelinks({
+      links: {
+        Mastodon: "https://awaymessage.club/@stoppableforce",
+        Bluesky: "https://bsky.app/profile/awaymessage.club",
+        Github: "https://github.com/stoppableforce",
+        "Itch.io": "https://stoppableforce.itch.io"
+      }
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -45,5 +51,14 @@ export const defaultListPageLayout: PageLayout = {
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
   ],
-  right: [],
+  right: [
+    Component.Sidelinks({
+      links: {
+        Mastodon: "https://awaymessage.club/@stoppableforce",
+        Bluesky: "https://bsky.app/profile/awaymessage.club",
+        Github: "https://github.com/stoppableforce",
+        "Itch.io": "https://stoppableforce.itch.io"
+      }
+    }),
+  ],
 }
