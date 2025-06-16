@@ -6,6 +6,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
+	author = "stoppableforce"
 	avatarEmail = "ulrichp@fastmail.com"
 	permanentTopNav = true
 	showReadingTime = true
@@ -41,3 +42,8 @@ enableRobotsTXT = true
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"

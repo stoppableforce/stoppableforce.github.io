@@ -16,6 +16,13 @@
       <description>&lt;p&gt;This is an about page!&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Article Series</title>
+      <link>http://localhost:1313/page/series/</link>
+      <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/page/series/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>RSS</title>
       <link>http://localhost:1313/page/rss/</link>
       <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
