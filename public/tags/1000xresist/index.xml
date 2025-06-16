@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1000xRESIST on My not-quite-daily notes</title>
-    <link>https://notes.awaymessage.club/tags/1000xresist/</link>
+    <link>http://localhost:1313/tags/1000xresist/</link>
     <description>Recent content in 1000xRESIST on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:18:46 +0000</lastBuildDate>
-    <atom:link href="https://notes.awaymessage.club/tags/1000xresist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/1000xresist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1000xRESIST</title>
-      <link>https://notes.awaymessage.club/posts/2025/02/1000xresist/</link>
+      <link>http://localhost:1313/posts/2025/02/1000xresist/</link>
       <pubDate>Tue, 04 Feb 2025 13:30:04 +0000</pubDate>
-      <guid>https://notes.awaymessage.club/posts/2025/02/1000xresist/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://notes.awaymessage.club/ob/posts/attachments/bafkreig2vem6fwu2erv2lf34ufzxt6orvx6chew354dly3ii4k22252p4q.jpg&#34; alt=&#34;A screenshot from 1000xRESIST, showing protagonist Watcher standing in a round room whose only feature of note is a silver horse statue. This is, apparently, the Horse Lobby.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes you play a game, and maybe that game is fun for a while, but when you&amp;rsquo;re done, nothing really sticks with you. You bring nothing to the table, you take nothing away, and you&amp;rsquo;re finished with it, done and dusted. I find this to be a pretty common experience with AAA games these days, to be honest.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/02/1000xresist/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ob/posts/attachments/bafkreig2vem6fwu2erv2lf34ufzxt6orvx6chew354dly3ii4k22252p4q.jpg&#34; alt=&#34;A screenshot from 1000xRESIST, showing protagonist Watcher standing in a round room whose only feature of note is a silver horse statue. This is, apparently, the Horse Lobby.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sometimes you play a game, and maybe that game is fun for a while, but when you&amp;rsquo;re done, nothing really sticks with you. You bring nothing to the table, you take nothing away, and you&amp;rsquo;re finished with it, done and dusted. I find this to be a pretty common experience with AAA games these days, to be honest.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

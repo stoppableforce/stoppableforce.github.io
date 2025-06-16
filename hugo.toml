@@ -6,6 +6,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
+	avatarEmail = "ulrichp@fastmail.com"
 	permanentTopNav = true
 	showReadingTime = true
 	baseColor = "#1a5276"

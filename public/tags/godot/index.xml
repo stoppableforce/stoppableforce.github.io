@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Godot on My not-quite-daily notes</title>
-    <link>https://notes.awaymessage.club/tags/godot/</link>
+    <link>http://localhost:1313/tags/godot/</link>
     <description>Recent content in Godot on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:18:22 +0000</lastBuildDate>
-    <atom:link href="https://notes.awaymessage.club/tags/godot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/godot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Re-learning Godot, and also publishing this site</title>
-      <link>https://notes.awaymessage.club/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</link>
+      <link>http://localhost:1313/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</link>
       <pubDate>Sat, 21 Dec 2024 17:43:00 +0000</pubDate>
-      <guid>https://notes.awaymessage.club/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</guid>
+      <guid>http://localhost:1313/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</guid>
       <description>&lt;p&gt;Opened &lt;a href=&#34;https://godotengine.org/&#34;&gt;Godot&lt;/a&gt; today and discovered it had been so long since I used it that my skills had pretty much atrophied away to nothing (in fact, I think it&amp;rsquo;s had a full version update &amp;ndash; I&amp;rsquo;d never touched Godot 4!). Luckily, I still had one of &lt;a href=&#34;https://www.heartgamedev.com/&#34;&gt;Ben Anderson&amp;rsquo;s excellent Godot courses&lt;/a&gt; and it&amp;rsquo;d been updated to Godot 4, so I started over from scratch. Trying something this time that I usually don&amp;rsquo;t do for video lectures and besides coding along, I&amp;rsquo;m taking notes &amp;ndash; besides giving me yet another reason to use Obsidian, I thought it might be a nice way to actually remember some things in a more general sense.&lt;/p&gt;</description>
     </item>
   </channel>
