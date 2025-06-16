@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'My not-quite-daily notes'
 theme = 'bilberry'
 enableEmoji = true
+enableRobotsTXT = true
 
 [params]
 	permanentTopNav = true
