@@ -33,3 +33,7 @@ enableEmoji = true
 [permalinks]
   [permalinks.page]
     posts = '/posts/:year/:month/:slug/'
+
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
