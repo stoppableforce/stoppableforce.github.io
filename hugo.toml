@@ -13,6 +13,7 @@ enableRobotsTXT = true
 	headlineFont = "Atkinson"
 	articleFooterFont = "Atkinson Mono"
 	css_modules = ["sitefonts.css"]
+	js_modules = ["https://kit.fontawesome.com/b5a8721916.js"]
 
 	copyrightBy = "stoppableforce"
 	creditsText = "Away Message Club"
