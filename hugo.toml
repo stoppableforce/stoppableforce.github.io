@@ -29,8 +29,9 @@ enableRobotsTXT = true
 
 	showSocialMedia = true
 	socialMediaLinks = [
-		{ link = "https://bsky.app/profile/awaymessage.club", rel = "me", icon = "fa-bluesky" },
-		{ link = "https://stoppableforce.itch.io", rel = "me", icon = "fa-itch-io" }
+		{ link = "https://awaymessage.club/@stoppableforce", rel = "me", icon = "fa-brands fa-mastodon" },
+		{ link = "https://bsky.app/profile/awaymessage.club", rel = "me", icon = "fa-brands fa-bluesky" },
+		{ link = "https://stoppableforce.itch.io", rel = "me", icon = "fa-brands fa-itch-io" }
 	]
 
 [permalinks]
