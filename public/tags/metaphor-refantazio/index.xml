@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metaphor-Refantazio on My not-quite-daily notes</title>
-    <link>http://localhost:1313/tags/metaphor-refantazio/</link>
+    <link>https://notes.awaymessage.club/tags/metaphor-refantazio/</link>
     <description>Recent content in Metaphor-Refantazio on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:20:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/metaphor-refantazio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notes.awaymessage.club/tags/metaphor-refantazio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clearly not out of my way enough</title>
-      <link>http://localhost:1313/posts/2025/06/clearly-not-out-of-my-way-enough/</link>
+      <link>https://notes.awaymessage.club/posts/2025/06/clearly-not-out-of-my-way-enough/</link>
       <pubDate>Thu, 12 Jun 2025 17:48:58 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/clearly-not-out-of-my-way-enough/</guid>
+      <guid>https://notes.awaymessage.club/posts/2025/06/clearly-not-out-of-my-way-enough/</guid>
       <description>&lt;p&gt;Clearly a blogging system that got mostly out of my way so I could focus on blogging wasn&amp;rsquo;t quite good enough. It doesn&amp;rsquo;t quite help that I broke my setup with Windows for a bit &amp;ndash; the newest version of &lt;a href=&#34;https://quartz.jzhao.xyz/&#34;&gt;Quartz&lt;/a&gt; requires a newer version of Node.js than we were using for work, so I ended up switching back to using &lt;a href=&#34;https://zone-builder.neocities.org&#34;&gt;Zoner&lt;/a&gt;, which has been a trip. That also means actual new posts aren&amp;rsquo;t getting posted for a bit because I&amp;rsquo;m not just reinventing the wheel, I&amp;rsquo;m finding entirely new ways to reinvent the reinventing machine.&lt;/p&gt;</description>
     </item>
   </channel>

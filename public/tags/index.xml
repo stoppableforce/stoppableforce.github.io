@@ -2,171 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My not-quite-daily notes</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://notes.awaymessage.club/tags/</link>
     <description>Recent content in Tags on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:20:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notes.awaymessage.club/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging</title>
-      <link>http://localhost:1313/tags/blogging/</link>
+      <link>https://notes.awaymessage.club/tags/blogging/</link>
       <pubDate>Thu, 12 Jun 2025 17:48:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blogging/</guid>
+      <guid>https://notes.awaymessage.club/tags/blogging/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue-Prince</title>
-      <link>http://localhost:1313/tags/blue-prince/</link>
+      <link>https://notes.awaymessage.club/tags/blue-prince/</link>
       <pubDate>Thu, 12 Jun 2025 17:48:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blue-prince/</guid>
+      <guid>https://notes.awaymessage.club/tags/blue-prince/</guid>
       <description></description>
     </item>
     <item>
       <title>Metaphor-Refantazio</title>
-      <link>http://localhost:1313/tags/metaphor-refantazio/</link>
+      <link>https://notes.awaymessage.club/tags/metaphor-refantazio/</link>
       <pubDate>Thu, 12 Jun 2025 17:48:58 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metaphor-refantazio/</guid>
+      <guid>https://notes.awaymessage.club/tags/metaphor-refantazio/</guid>
       <description></description>
     </item>
     <item>
       <title>Nintendo</title>
-      <link>http://localhost:1313/tags/nintendo/</link>
+      <link>https://notes.awaymessage.club/tags/nintendo/</link>
       <pubDate>Wed, 02 Apr 2025 10:56:14 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nintendo/</guid>
+      <guid>https://notes.awaymessage.club/tags/nintendo/</guid>
       <description></description>
     </item>
     <item>
       <title>Switch-2</title>
-      <link>http://localhost:1313/tags/switch-2/</link>
+      <link>https://notes.awaymessage.club/tags/switch-2/</link>
       <pubDate>Wed, 02 Apr 2025 10:56:14 +0000</pubDate>
-      <guid>http://localhost:1313/tags/switch-2/</guid>
+      <guid>https://notes.awaymessage.club/tags/switch-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Videogames</title>
-      <link>http://localhost:1313/tags/videogames/</link>
+      <link>https://notes.awaymessage.club/tags/videogames/</link>
       <pubDate>Wed, 02 Apr 2025 10:56:14 +0000</pubDate>
-      <guid>http://localhost:1313/tags/videogames/</guid>
+      <guid>https://notes.awaymessage.club/tags/videogames/</guid>
       <description></description>
     </item>
     <item>
       <title>Gamedev</title>
-      <link>http://localhost:1313/tags/gamedev/</link>
+      <link>https://notes.awaymessage.club/tags/gamedev/</link>
       <pubDate>Fri, 28 Mar 2025 13:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gamedev/</guid>
+      <guid>https://notes.awaymessage.club/tags/gamedev/</guid>
       <description></description>
     </item>
     <item>
       <title>Legend-in-the-Mist</title>
-      <link>http://localhost:1313/tags/legend-in-the-mist/</link>
+      <link>https://notes.awaymessage.club/tags/legend-in-the-mist/</link>
       <pubDate>Fri, 28 Mar 2025 13:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/legend-in-the-mist/</guid>
+      <guid>https://notes.awaymessage.club/tags/legend-in-the-mist/</guid>
       <description></description>
     </item>
     <item>
       <title>Traveller</title>
-      <link>http://localhost:1313/tags/traveller/</link>
+      <link>https://notes.awaymessage.club/tags/traveller/</link>
       <pubDate>Fri, 28 Mar 2025 13:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/traveller/</guid>
+      <guid>https://notes.awaymessage.club/tags/traveller/</guid>
       <description></description>
     </item>
     <item>
       <title>Triangle-Agency</title>
-      <link>http://localhost:1313/tags/triangle-agency/</link>
+      <link>https://notes.awaymessage.club/tags/triangle-agency/</link>
       <pubDate>Fri, 28 Mar 2025 13:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/triangle-agency/</guid>
+      <guid>https://notes.awaymessage.club/tags/triangle-agency/</guid>
       <description></description>
     </item>
     <item>
       <title>World-of-Warcraft</title>
-      <link>http://localhost:1313/tags/world-of-warcraft/</link>
+      <link>https://notes.awaymessage.club/tags/world-of-warcraft/</link>
       <pubDate>Fri, 28 Mar 2025 13:45:09 +0000</pubDate>
-      <guid>http://localhost:1313/tags/world-of-warcraft/</guid>
+      <guid>https://notes.awaymessage.club/tags/world-of-warcraft/</guid>
       <description></description>
     </item>
     <item>
       <title>Google</title>
-      <link>http://localhost:1313/tags/google/</link>
+      <link>https://notes.awaymessage.club/tags/google/</link>
       <pubDate>Thu, 20 Feb 2025 00:38:59 +0000</pubDate>
-      <guid>http://localhost:1313/tags/google/</guid>
+      <guid>https://notes.awaymessage.club/tags/google/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
+      <link>https://notes.awaymessage.club/tags/tech/</link>
       <pubDate>Thu, 20 Feb 2025 00:38:59 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech/</guid>
+      <guid>https://notes.awaymessage.club/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>1000xRESIST</title>
-      <link>http://localhost:1313/tags/1000xresist/</link>
+      <link>https://notes.awaymessage.club/tags/1000xresist/</link>
       <pubDate>Tue, 04 Feb 2025 13:30:04 +0000</pubDate>
-      <guid>http://localhost:1313/tags/1000xresist/</guid>
+      <guid>https://notes.awaymessage.club/tags/1000xresist/</guid>
       <description></description>
     </item>
     <item>
       <title>Diablo-4</title>
-      <link>http://localhost:1313/tags/diablo-4/</link>
+      <link>https://notes.awaymessage.club/tags/diablo-4/</link>
       <pubDate>Mon, 27 Jan 2025 08:17:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/diablo-4/</guid>
+      <guid>https://notes.awaymessage.club/tags/diablo-4/</guid>
       <description></description>
     </item>
     <item>
       <title>Ttrpg</title>
-      <link>http://localhost:1313/tags/ttrpg/</link>
+      <link>https://notes.awaymessage.club/tags/ttrpg/</link>
       <pubDate>Mon, 27 Jan 2025 08:17:51 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ttrpg/</guid>
+      <guid>https://notes.awaymessage.club/tags/ttrpg/</guid>
       <description></description>
     </item>
     <item>
       <title>Transistor</title>
-      <link>http://localhost:1313/tags/transistor/</link>
+      <link>https://notes.awaymessage.club/tags/transistor/</link>
       <pubDate>Sun, 19 Jan 2025 11:30:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transistor/</guid>
+      <guid>https://notes.awaymessage.club/tags/transistor/</guid>
       <description></description>
     </item>
     <item>
       <title>IRL</title>
-      <link>http://localhost:1313/tags/irl/</link>
+      <link>https://notes.awaymessage.club/tags/irl/</link>
       <pubDate>Tue, 14 Jan 2025 11:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irl/</guid>
+      <guid>https://notes.awaymessage.club/tags/irl/</guid>
       <description></description>
     </item>
     <item>
       <title>Mastodon</title>
-      <link>http://localhost:1313/tags/mastodon/</link>
+      <link>https://notes.awaymessage.club/tags/mastodon/</link>
       <pubDate>Tue, 14 Jan 2025 11:12:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mastodon/</guid>
+      <guid>https://notes.awaymessage.club/tags/mastodon/</guid>
       <description></description>
     </item>
     <item>
       <title>Anime</title>
-      <link>http://localhost:1313/tags/anime/</link>
+      <link>https://notes.awaymessage.club/tags/anime/</link>
       <pubDate>Fri, 03 Jan 2025 14:55:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anime/</guid>
+      <guid>https://notes.awaymessage.club/tags/anime/</guid>
       <description></description>
     </item>
     <item>
       <title>I-Was-a-Teenage-Exocolonist</title>
-      <link>http://localhost:1313/tags/i-was-a-teenage-exocolonist/</link>
+      <link>https://notes.awaymessage.club/tags/i-was-a-teenage-exocolonist/</link>
       <pubDate>Fri, 03 Jan 2025 14:55:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/i-was-a-teenage-exocolonist/</guid>
+      <guid>https://notes.awaymessage.club/tags/i-was-a-teenage-exocolonist/</guid>
       <description></description>
     </item>
     <item>
       <title>Obsidian</title>
-      <link>http://localhost:1313/tags/obsidian/</link>
+      <link>https://notes.awaymessage.club/tags/obsidian/</link>
       <pubDate>Fri, 03 Jan 2025 14:55:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/obsidian/</guid>
+      <guid>https://notes.awaymessage.club/tags/obsidian/</guid>
       <description></description>
     </item>
     <item>
       <title>Godot</title>
-      <link>http://localhost:1313/tags/godot/</link>
+      <link>https://notes.awaymessage.club/tags/godot/</link>
       <pubDate>Sat, 21 Dec 2024 17:43:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/godot/</guid>
+      <guid>https://notes.awaymessage.club/tags/godot/</guid>
       <description></description>
     </item>
   </channel>
