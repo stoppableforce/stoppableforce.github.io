@@ -2,138 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://notes.awaymessage.club/tags/blogging/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/posts/2025/06/hypothetically-hugo/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/tags/obsidian/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/posts/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/tags/</loc>
+    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
+  </url><url>
+    <loc>https://notes.awaymessage.club/page/about/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/series/</loc>
+    <loc>https://notes.awaymessage.club/page/series/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://notes.awaymessage.club/page/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/rss/</loc>
+    <loc>https://notes.awaymessage.club/page/rss/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blogging/</loc>
+    <loc>https://notes.awaymessage.club/tags/blue-prince/</loc>
     <lastmod>2025-06-16T19:20:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue-prince/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/06/clearly-not-out-of-my-way-enough/</loc>
     <lastmod>2025-06-16T19:20:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/06/clearly-not-out-of-my-way-enough/</loc>
+    <loc>https://notes.awaymessage.club/tags/metaphor-refantazio/</loc>
     <lastmod>2025-06-16T19:20:44+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/metaphor-refantazio/</loc>
-    <lastmod>2025-06-16T19:20:44+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/nintendo/</loc>
+    <loc>https://notes.awaymessage.club/tags/nintendo/</loc>
     <lastmod>2025-06-16T19:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/04/switch-2-direct-quick-thoughts/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/04/switch-2-direct-quick-thoughts/</loc>
     <lastmod>2025-06-16T19:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/switch-2/</loc>
+    <loc>https://notes.awaymessage.club/tags/switch-2/</loc>
     <lastmod>2025-06-16T19:19:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/videogames/</loc>
+    <loc>https://notes.awaymessage.club/tags/videogames/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/03/a-busy-march/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/03/a-busy-march/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gamedev/</loc>
+    <loc>https://notes.awaymessage.club/tags/gamedev/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/legend-in-the-mist/</loc>
+    <loc>https://notes.awaymessage.club/tags/legend-in-the-mist/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/traveller/</loc>
+    <loc>https://notes.awaymessage.club/tags/traveller/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/triangle-agency/</loc>
+    <loc>https://notes.awaymessage.club/tags/triangle-agency/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/world-of-warcraft/</loc>
+    <loc>https://notes.awaymessage.club/tags/world-of-warcraft/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/02/de-googled/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/02/de-googled/</loc>
     <lastmod>2025-06-16T19:18:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/google/</loc>
+    <loc>https://notes.awaymessage.club/tags/google/</loc>
     <lastmod>2025-06-16T19:18:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tech/</loc>
+    <loc>https://notes.awaymessage.club/tags/tech/</loc>
     <lastmod>2025-06-16T19:18:51+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/02/1000xresist/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/02/1000xresist/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/1000xresist/</loc>
+    <loc>https://notes.awaymessage.club/tags/1000xresist/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/games-i-finished-in-2025/</loc>
+    <loc>https://notes.awaymessage.club/series/games-i-finished-in-2025/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://notes.awaymessage.club/series/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/a-weekend-full-of-games/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/01/a-weekend-full-of-games/</loc>
     <lastmod>2025-06-16T19:18:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/diablo-4/</loc>
+    <loc>https://notes.awaymessage.club/tags/diablo-4/</loc>
     <lastmod>2025-06-16T19:18:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ttrpg/</loc>
+    <loc>https://notes.awaymessage.club/tags/ttrpg/</loc>
     <lastmod>2025-06-16T19:18:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/transistor/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/01/transistor/</loc>
     <lastmod>2025-06-16T21:53:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/transistor/</loc>
+    <loc>https://notes.awaymessage.club/tags/transistor/</loc>
     <lastmod>2025-06-16T21:53:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irl/</loc>
+    <loc>https://notes.awaymessage.club/tags/irl/</loc>
     <lastmod>2025-06-16T19:18:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mastodon/</loc>
+    <loc>https://notes.awaymessage.club/tags/mastodon/</loc>
     <lastmod>2025-06-16T19:18:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/the-annual-dude-retreat-and-the-perils-of-mastodon-administration/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/01/the-annual-dude-retreat-and-the-perils-of-mastodon-administration/</loc>
     <lastmod>2025-06-16T19:18:31+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anime/</loc>
+    <loc>https://notes.awaymessage.club/tags/anime/</loc>
     <lastmod>2025-06-16T19:18:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</loc>
+    <loc>https://notes.awaymessage.club/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</loc>
     <lastmod>2025-06-16T19:18:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/i-was-a-teenage-exocolonist/</loc>
+    <loc>https://notes.awaymessage.club/tags/i-was-a-teenage-exocolonist/</loc>
     <lastmod>2025-06-16T19:18:27+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/obsidian/</loc>
-    <lastmod>2025-06-16T19:18:27+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/godot/</loc>
+    <loc>https://notes.awaymessage.club/tags/godot/</loc>
     <lastmod>2025-06-16T19:18:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</loc>
+    <loc>https://notes.awaymessage.club/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</loc>
     <lastmod>2025-06-16T19:18:22+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/12/rambling-about-static-site-technology/</loc>
+    <loc>https://notes.awaymessage.club/posts/2024/12/rambling-about-static-site-technology/</loc>
     <lastmod>2025-06-16T19:18:18+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/12/obligatory-first-post/</loc>
+    <loc>https://notes.awaymessage.club/posts/2024/12/obligatory-first-post/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://notes.awaymessage.club/categories/</loc>
   </url>
 </urlset>

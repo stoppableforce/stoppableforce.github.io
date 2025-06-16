@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on My not-quite-daily notes</title>
-    <link>http://localhost:1313/page/</link>
+    <link>https://notes.awaymessage.club/page/</link>
     <description>Recent content in Pages on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:18:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notes.awaymessage.club/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/page/about/</link>
+      <link>https://notes.awaymessage.club/page/about/</link>
       <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/page/about/</guid>
+      <guid>https://notes.awaymessage.club/page/about/</guid>
       <description>&lt;p&gt;This is an about page!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Article Series</title>
-      <link>http://localhost:1313/page/series/</link>
+      <link>https://notes.awaymessage.club/page/series/</link>
       <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/page/series/</guid>
+      <guid>https://notes.awaymessage.club/page/series/</guid>
       <description></description>
     </item>
     <item>
       <title>RSS</title>
-      <link>http://localhost:1313/page/rss/</link>
+      <link>https://notes.awaymessage.club/page/rss/</link>
       <pubDate>Mon, 16 Jun 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/page/rss/</guid>
+      <guid>https://notes.awaymessage.club/page/rss/</guid>
       <description></description>
     </item>
   </channel>

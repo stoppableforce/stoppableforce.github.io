@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google on My not-quite-daily notes</title>
-    <link>http://localhost:1313/tags/google/</link>
+    <link>https://notes.awaymessage.club/tags/google/</link>
     <description>Recent content in Google on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:18:51 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notes.awaymessage.club/tags/google/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De-Googled</title>
-      <link>http://localhost:1313/posts/2025/02/de-googled/</link>
+      <link>https://notes.awaymessage.club/posts/2025/02/de-googled/</link>
       <pubDate>Thu, 20 Feb 2025 00:38:59 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/02/de-googled/</guid>
+      <guid>https://notes.awaymessage.club/posts/2025/02/de-googled/</guid>
       <description>&lt;p&gt;Over the course of the last year, I have slowly been taking steps to pull myself out of actively using the Google ecosystem. It&amp;rsquo;s hard sometimes &amp;ndash; they feel almost ubiquitous &amp;ndash; but when Gemini came around and it became clear that active enshittification was the name of the game for the big G, I had to start finding ways to get free.&lt;/p&gt;&#xA;&lt;p&gt;The other inspiration was just what a fucking miserable experience searching the web had become. So my first de-googlefication was stopping use of Google, and starting to instead use &lt;a href=&#34;https://kagi.com/&#34;&gt;Kagi&lt;/a&gt;. This has been a delightful experience, and I&amp;rsquo;ve talked a number of folks into coming along with me (enough that I have a family plan!), as changing your browser to search somewhere else is fairly low effort.&lt;/p&gt;</description>
     </item>
   </channel>
