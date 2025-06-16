@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diablo-4 on My not-quite-daily notes</title>
-    <link>https://notes.awaymessage.club/tags/diablo-4/</link>
+    <link>http://localhost:1313/tags/diablo-4/</link>
     <description>Recent content in Diablo-4 on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 19:18:42 +0000</lastBuildDate>
-    <atom:link href="https://notes.awaymessage.club/tags/diablo-4/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/diablo-4/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A weekend full of games</title>
-      <link>https://notes.awaymessage.club/posts/2025/01/a-weekend-full-of-games/</link>
+      <link>http://localhost:1313/posts/2025/01/a-weekend-full-of-games/</link>
       <pubDate>Mon, 27 Jan 2025 08:17:51 +0000</pubDate>
-      <guid>https://notes.awaymessage.club/posts/2025/01/a-weekend-full-of-games/</guid>
-      <description>&lt;h2 id=&#34;diablo-4-vessel-of-hatred&#34;&gt;Diablo 4: Vessel of Hatred&lt;/h2&gt;&#xA;&lt;p&gt;Back in &lt;a href=&#34;https://notes.awaymessage.club/2025-01-19.md&#34;&gt;my post about Transistor&lt;/a&gt; I mentioned that the second game I finished in 2025 was probably going to be Helen&amp;rsquo;s Mysterious Castle; instead, it turned out to be Diablo 4&amp;rsquo;s expansion pack, Vessel of Hatred. It was&amp;hellip; okay.&lt;/p&gt;&#xA;&lt;p&gt;First, about Diablo 4 as a game: it&amp;rsquo;s actually really good, although it took some time to get there. The Diablo 4 team seemed entirely determined to learn absolutely nothing from the Diablo 3 team&amp;rsquo;s mistakes and recoveries early on, and honestly that&amp;rsquo;s still kind of a recurring theme across Blizzard as a whole (I suspect inter-team communication basically doesn&amp;rsquo;t exist), but Diablo 4 got really good &amp;ndash; the game is fun to play, the classes are varied and have a lot of viable endgame builds for what is now a large variety of endgame content, it&amp;rsquo;s really everything you could want out of an action RPG. The seasonal content is hit or miss, but the current Season of the Witch is probably my favorite since the Season of Blood&amp;rsquo;s vampire-based content back in Season 2. So my comments on Vessel of Hatred do not reflect on how fun the game itself actually is to play.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/a-weekend-full-of-games/</guid>
+      <description>&lt;h2 id=&#34;diablo-4-vessel-of-hatred&#34;&gt;Diablo 4: Vessel of Hatred&lt;/h2&gt;&#xA;&lt;p&gt;Back in &lt;a href=&#34;http://localhost:1313/2025-01-19.md&#34;&gt;my post about Transistor&lt;/a&gt; I mentioned that the second game I finished in 2025 was probably going to be Helen&amp;rsquo;s Mysterious Castle; instead, it turned out to be Diablo 4&amp;rsquo;s expansion pack, Vessel of Hatred. It was&amp;hellip; okay.&lt;/p&gt;&#xA;&lt;p&gt;First, about Diablo 4 as a game: it&amp;rsquo;s actually really good, although it took some time to get there. The Diablo 4 team seemed entirely determined to learn absolutely nothing from the Diablo 3 team&amp;rsquo;s mistakes and recoveries early on, and honestly that&amp;rsquo;s still kind of a recurring theme across Blizzard as a whole (I suspect inter-team communication basically doesn&amp;rsquo;t exist), but Diablo 4 got really good &amp;ndash; the game is fun to play, the classes are varied and have a lot of viable endgame builds for what is now a large variety of endgame content, it&amp;rsquo;s really everything you could want out of an action RPG. The seasonal content is hit or miss, but the current Season of the Witch is probably my favorite since the Season of Blood&amp;rsquo;s vampire-based content back in Season 2. So my comments on Vessel of Hatred do not reflect on how fun the game itself actually is to play.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

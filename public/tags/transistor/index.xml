@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transistor on My not-quite-daily notes</title>
-    <link>https://notes.awaymessage.club/tags/transistor/</link>
+    <link>http://localhost:1313/tags/transistor/</link>
     <description>Recent content in Transistor on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 21:53:56 +0000</lastBuildDate>
-    <atom:link href="https://notes.awaymessage.club/tags/transistor/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/transistor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transistor</title>
-      <link>https://notes.awaymessage.club/posts/2025/01/transistor/</link>
+      <link>http://localhost:1313/posts/2025/01/transistor/</link>
       <pubDate>Sun, 19 Jan 2025 11:30:00 +0000</pubDate>
-      <guid>https://notes.awaymessage.club/posts/2025/01/transistor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://notes.awaymessage.club/ob/posts/attachments/red%20and%20the%20transistor.jpg&#34; alt=&#34;Picture of Red, the protagonist of Transistor, embracing the titular weapon/macguffin, which looks like nothing so much as a teal greatsword crossed with an SD card&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I decided at some point (probably after surveying &lt;a href=&#34;https://steamcommunity.com/id/stoppableforce&#34;&gt;my enormous Steam backlog&lt;/a&gt;) that I was going to start keeping track of games when I finish them, so that I remember to talk about them. Anyway, the first game of the year finished in 2025 was Supergiant Games&amp;rsquo; &lt;a href=&#34;https://www.supergiantgames.com/games/transistor/&#34;&gt;Transistor&lt;/a&gt;. I actually own Transistor twice; once on the PS3, which I bought, and once on Steam, where my friend Maxine was kind enough to gift it to me for Christmas and thus remind me that I never really got too far into it. On the PS3, I both found the text size on screen infuriatingly small, and also found the combat system just &lt;em&gt;way&lt;/em&gt; too hard for some reason, so I abandoned it not far into the game &amp;ndash; which is a problem, because there is such a good game under the surface here.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/transistor/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ob/posts/attachments/red%20and%20the%20transistor.jpg&#34; alt=&#34;Picture of Red, the protagonist of Transistor, embracing the titular weapon/macguffin, which looks like nothing so much as a teal greatsword crossed with an SD card&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I decided at some point (probably after surveying &lt;a href=&#34;https://steamcommunity.com/id/stoppableforce&#34;&gt;my enormous Steam backlog&lt;/a&gt;) that I was going to start keeping track of games when I finish them, so that I remember to talk about them. Anyway, the first game of the year finished in 2025 was Supergiant Games&amp;rsquo; &lt;a href=&#34;https://www.supergiantgames.com/games/transistor/&#34;&gt;Transistor&lt;/a&gt;. I actually own Transistor twice; once on the PS3, which I bought, and once on Steam, where my friend Maxine was kind enough to gift it to me for Christmas and thus remind me that I never really got too far into it. On the PS3, I both found the text size on screen infuriatingly small, and also found the combat system just &lt;em&gt;way&lt;/em&gt; too hard for some reason, so I abandoned it not far into the game &amp;ndash; which is a problem, because there is such a good game under the surface here.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

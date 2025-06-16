@@ -8,7 +8,7 @@ enableRobotsTXT = true
 [params]
 	author = "stoppableforce"
 	avatarEmail = "ulrichp@fastmail.com"
-	permanentTopNav = true
+	permanentTopNav = false
 	showReadingTime = true
 	baseColor = "#1a5276"
 	contentFont = "Atkinson"
@@ -19,6 +19,7 @@ enableRobotsTXT = true
 
 	copyrightBy = "stoppableforce"
 	creditsText = "Away Message Club"
+	creditsUrl = "https://awaymessage.club"
 
 	utterances = true
 	utterancesJsUrl = "https://utteranc.es/client.js"
