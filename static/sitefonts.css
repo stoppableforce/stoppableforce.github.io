@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Atkinson';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/AtkinsonHyperlegibleNext-Regular.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/fonts/AtkinsonHyperlegibleNext-RegularItalic.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/AtkinsonHyperlegibleNext-Bold.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson';
+  font-style: italic;
+  font-weight: 700;
+  src: url('/fonts/AtkinsonHyperlegibleNext-BoldItalic.otf') format('otf');
+  font-display: swap;
+} 
+
+@font-face {
+  font-family: 'Atkinson Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/AtkinsonHyperlegibleMono-Regular.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Mono';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/fonts/AtkinsonHyperlegibleMono-RegularItalic.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/AtkinsonHyperlegibleMono-Bold.otf') format('otf');
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Atkinson Mono';
+  font-style: italic;
+  font-weight: 700;
+  src: url('/fonts/AtkinsonHyperlegibleMono-BoldItalic.otf') format('otf');
+  font-display: swap;
+} 

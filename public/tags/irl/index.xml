@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IRL on My not-quite-daily notes</title>
+    <link>http://localhost:1313/tags/irl/</link>
+    <description>Recent content in IRL on My not-quite-daily notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 19:18:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/irl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The annual &#34;dude retreat&#34; and the perils of Mastodon administration</title>
+      <link>http://localhost:1313/posts/2025/01/the-annual-dude-retreat-and-the-perils-of-mastodon-administration/</link>
+      <pubDate>Tue, 14 Jan 2025 11:12:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/the-annual-dude-retreat-and-the-perils-of-mastodon-administration/</guid>
+      <description>&lt;p&gt;This past weekend was one of my favorite recurring events, now going on three years in a row: several of my college friends and I rent out an AirBNB and spend the weekend making food together, eating, drinking, and playing card, board and video games. It&amp;rsquo;s just like a weekend-long taste of dorm life again, except we&amp;rsquo;ve all moved from takeout to chili cookoffs and cheap beer to a bar full of nice bourbons and whiskeys. It&amp;rsquo;s always a good time catching up with people; as a bonus this time we managed to get a couple of folks we hadn&amp;rsquo;t talked with in maybe 17 years to join us as well. It felt just like old times again. We&amp;rsquo;re all the same, just older and greyer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

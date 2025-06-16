@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anime on My not-quite-daily notes</title>
+    <link>http://localhost:1313/tags/anime/</link>
+    <description>Recent content in Anime on My not-quite-daily notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jun 2025 19:18:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/anime/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataview in Obsidian, and 100%ing I Was a Teenage Exocolonist</title>
+      <link>http://localhost:1313/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</link>
+      <pubDate>Fri, 03 Jan 2025 14:55:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</guid>
+      <description>&lt;p&gt;New year, new really nerdy way to apply Obsidian. Ever since I bought &lt;a href=&#34;https://store.steampowered.com/app/1148760/I_Was_a_Teenage_Exocolonist/&#34;&gt;I Was a Teenage Exocolonist&lt;/a&gt; in November I&amp;rsquo;ve been really obsessed with exploring every little corner of this beautiful little narrative deckbuilding RPG. I recently decided I wanted to get 100% completion of the game, but doing that requires two things that take some extensive tracking: getting every ending at least once (there are 29), and getting every card at least once (there are&amp;hellip;. tons). Obviously I can just make checklists in Obsidian, but then I figured out I could use &lt;a href=&#34;https://blacksmithgu.github.io/obsidian-dataview/&#34;&gt;Dataview&lt;/a&gt; to query over those files as well, and show myself a nice table of my progress.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

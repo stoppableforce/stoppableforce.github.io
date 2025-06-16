@@ -1,0 +1,35 @@
+baseURL = 'https://notes.awaymessage.club/'
+languageCode = 'en-us'
+title = 'My not-quite-daily notes'
+theme = 'bilberry'
+enableEmoji = true
+
+[params]
+	permanentTopNav = true
+	showReadingTime = true
+	baseColor = "#1a5276"
+	contentFont = "Atkinson"
+	headlineFont = "Atkinson"
+	articleFooterFont = "Atkinson Mono"
+	css_modules = ["sitefonts.css"]
+
+	copyrightBy = "stoppableforce"
+	creditsText = "Away Message Club"
+
+	utterances = true
+	utterancesJsUrl = "https://utteranc.es/client.js"
+	utterancesRepository = "stoppableforce/stoppableforce.github.io"
+	utterancesIssueTerm = "pathname"
+	utterancesLabel = "Comment"
+	utterancesTheme = "boxy-light"
+	utterancesCrossOrigin = "anonymous"
+
+	showSocialMedia = true
+	socialMediaLinks = [
+		{ link = "https://bsky.app/profile/awaymessage.club", rel = "me", icon = "fa-bluesky" },
+		{ link = "https://stoppableforce.itch.io", rel = "me", icon = "fa-itch-io" }
+	]
+
+[permalinks]
+  [permalinks.page]
+    posts = '/posts/:year/:month/:slug/'
