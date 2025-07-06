@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsidian on My not-quite-daily notes</title>
-    <link>http://localhost:1313/tags/obsidian/</link>
+    <link>https://notes.awaymessage.club/tags/obsidian/</link>
     <description>Recent content in Obsidian on My not-quite-daily notes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jun 2025 22:06:42 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notes.awaymessage.club/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hypothetically, Hugo</title>
-      <link>http://localhost:1313/posts/2025/06/hypothetically-hugo/</link>
+      <link>https://notes.awaymessage.club/posts/2025/06/hypothetically-hugo/</link>
       <pubDate>Mon, 16 Jun 2025 18:03:40 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/06/hypothetically-hugo/</guid>
-      <description>&lt;p&gt;Hypothetically, if I did everything correctly, this site should now be running off &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I was never &lt;em&gt;super&lt;/em&gt; happy with the way Quartz required me to maintain my own front page, since it really wants to throw your entire vault onto a website instead of just a subset of it, which required me to do wonky stuff with symlinks and directory junctions and&amp;hellip; anyway, after &lt;a href=&#34;http://localhost:1313/2025-06-12.md&#34;&gt;I broke my own Quartz install&lt;/a&gt; a few days ago, I decided to just say fuck it, let&amp;rsquo;s try something else. Now I&amp;rsquo;ve got an Obsidian vault with a specific subfolder that, thanks to a community plugin, I can spit into a Hugo install whenever I like.&lt;/p&gt;</description>
+      <guid>https://notes.awaymessage.club/posts/2025/06/hypothetically-hugo/</guid>
+      <description>&lt;p&gt;Hypothetically, if I did everything correctly, this site should now be running off &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I was never &lt;em&gt;super&lt;/em&gt; happy with the way Quartz required me to maintain my own front page, since it really wants to throw your entire vault onto a website instead of just a subset of it, which required me to do wonky stuff with symlinks and directory junctions and&amp;hellip; anyway, after &lt;a href=&#34;https://notes.awaymessage.club/2025-06-12.md&#34;&gt;I broke my own Quartz install&lt;/a&gt; a few days ago, I decided to just say fuck it, let&amp;rsquo;s try something else. Now I&amp;rsquo;ve got an Obsidian vault with a specific subfolder that, thanks to a community plugin, I can spit into a Hugo install whenever I like.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dataview in Obsidian, and 100%ing I Was a Teenage Exocolonist</title>
-      <link>http://localhost:1313/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</link>
+      <link>https://notes.awaymessage.club/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</link>
       <pubDate>Fri, 03 Jan 2025 14:55:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</guid>
+      <guid>https://notes.awaymessage.club/posts/2025/01/dataview-in-obsidian-and-100ing-i-was-a-teenage-exocolonist/</guid>
       <description>&lt;p&gt;New year, new really nerdy way to apply Obsidian. Ever since I bought &lt;a href=&#34;https://store.steampowered.com/app/1148760/I_Was_a_Teenage_Exocolonist/&#34;&gt;I Was a Teenage Exocolonist&lt;/a&gt; in November I&amp;rsquo;ve been really obsessed with exploring every little corner of this beautiful little narrative deckbuilding RPG. I recently decided I wanted to get 100% completion of the game, but doing that requires two things that take some extensive tracking: getting every ending at least once (there are 29), and getting every card at least once (there are&amp;hellip;. tons). Obviously I can just make checklists in Obsidian, but then I figured out I could use &lt;a href=&#34;https://blacksmithgu.github.io/obsidian-dataview/&#34;&gt;Dataview&lt;/a&gt; to query over those files as well, and show myself a nice table of my progress.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Re-learning Godot, and also publishing this site</title>
-      <link>http://localhost:1313/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</link>
+      <link>https://notes.awaymessage.club/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</link>
       <pubDate>Sat, 21 Dec 2024 17:43:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</guid>
+      <guid>https://notes.awaymessage.club/posts/2024/12/re-learning-godot-and-also-publishing-this-site/</guid>
       <description>&lt;p&gt;Opened &lt;a href=&#34;https://godotengine.org/&#34;&gt;Godot&lt;/a&gt; today and discovered it had been so long since I used it that my skills had pretty much atrophied away to nothing (in fact, I think it&amp;rsquo;s had a full version update &amp;ndash; I&amp;rsquo;d never touched Godot 4!). Luckily, I still had one of &lt;a href=&#34;https://www.heartgamedev.com/&#34;&gt;Ben Anderson&amp;rsquo;s excellent Godot courses&lt;/a&gt; and it&amp;rsquo;d been updated to Godot 4, so I started over from scratch. Trying something this time that I usually don&amp;rsquo;t do for video lectures and besides coding along, I&amp;rsquo;m taking notes &amp;ndash; besides giving me yet another reason to use Obsidian, I thought it might be a nice way to actually remember some things in a more general sense.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rambling about static site technology</title>
-      <link>http://localhost:1313/posts/2024/12/rambling-about-static-site-technology/</link>
+      <link>https://notes.awaymessage.club/posts/2024/12/rambling-about-static-site-technology/</link>
       <pubDate>Mon, 16 Dec 2024 20:37:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/rambling-about-static-site-technology/</guid>
+      <guid>https://notes.awaymessage.club/posts/2024/12/rambling-about-static-site-technology/</guid>
       <description>&lt;p&gt;Ed Zitron is right on the money again in &lt;a href=&#34;https://www.wheresyoured.at/never-forgive-them/&#34;&gt;Never Forgive Them&lt;/a&gt;, a look at the way tech companies actively make your life worse with the growth-at-all-costs mindset that has the tech industry in a death grip.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Why wouldn’t people feel insane? Why wouldn’t the internet, where we’re mostly forced to live, drive most people crazy? How are we not discussing the fact that so much of the internet is riddled with poison? How are we not treating the current state of the tech industry like an industrial chemical accident? Is it because there are too many people at fault? Is it because fixing it would require us to truly interrogate the fabric of a capitalist death cult?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Obligatory first post</title>
-      <link>http://localhost:1313/posts/2024/12/obligatory-first-post/</link>
+      <link>https://notes.awaymessage.club/posts/2024/12/obligatory-first-post/</link>
       <pubDate>Wed, 11 Dec 2024 20:34:30 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2024/12/obligatory-first-post/</guid>
+      <guid>https://notes.awaymessage.club/posts/2024/12/obligatory-first-post/</guid>
       <description>&lt;p&gt;Slowly getting used to &lt;a href=&#34;https://obsidian.md&#34;&gt;Obsidian&lt;/a&gt;. I&amp;rsquo;ve got livesyncing working across multiple machines without actually paying for it (using the &lt;a href=&#34;https://github.com/vrtmrz/obsidian-livesync&#34;&gt;obsidian-livesync&lt;/a&gt; community plugin and a CouchDB database on my NAS at home), and I think my next goal is to be able to publish this folder of daily notes as a blog.&lt;/p&gt;&#xA;&lt;p&gt;Need to find out if there&amp;rsquo;s a way to use YAML front matter to add a title to these notes without changing their filename, or if I&amp;rsquo;m just leaving it as is. Maybe titles are overrated? Tags would still be nice, if I intend to publish these as a blog.&lt;/p&gt;</description>
     </item>
   </channel>
