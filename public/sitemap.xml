@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/danchi-days/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lock-and-key/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/07/more-steam-demos/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/videogames/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wizmans-world-retry/</loc>
+    <lastmod>2025-07-06T23:24:27+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/06/blue-prince/</loc>
+    <lastmod>2025-07-01T18:07:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blue-prince/</loc>
+    <lastmod>2025-07-01T18:07:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/games-i-finished-in-2025/</loc>
+    <lastmod>2025-07-01T18:07:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-07-01T18:07:28+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025/06/steam-next-fest-2025/</loc>
+    <lastmod>2025-06-18T15:10:40+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2025-06-16T22:06:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/06/hypothetically-hugo/</loc>
     <lastmod>2025-06-16T22:06:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/obsidian/</loc>
-    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-16T22:06:42+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-06-16T22:06:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/about/</loc>
@@ -35,9 +65,6 @@
     <loc>http://localhost:1313/page/rss/</loc>
     <lastmod>2025-06-16T19:18:13+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blue-prince/</loc>
-    <lastmod>2025-06-16T19:20:44+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/2025/06/clearly-not-out-of-my-way-enough/</loc>
     <lastmod>2025-06-16T19:20:44+00:00</lastmod>
   </url><url>
@@ -52,9 +79,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/switch-2/</loc>
     <lastmod>2025-06-16T19:19:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/videogames/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/03/a-busy-march/</loc>
     <lastmod>2025-06-16T19:18:55+00:00</lastmod>
@@ -87,12 +111,6 @@
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/1000xresist/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/games-i-finished-in-2025/</loc>
-    <lastmod>2025-06-16T21:54:04+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-06-16T21:54:04+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/2025/01/a-weekend-full-of-games/</loc>
