@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on My not-quite-daily notes</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on My not-quite-daily notes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jul 2025 05:26:48 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Hex Kit on modern Linux systems via Lutris</title>
+      <link>http://localhost:1313/posts/2025/07/running-hex-kit-on-modern-linux-systems-via-lutris/</link>
+      <pubDate>Tue, 22 Jul 2025 01:19:59 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/07/running-hex-kit-on-modern-linux-systems-via-lutris/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ob/posts/attachments/Pasted%20image%2020250722012044.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;In attempting to run &lt;a href=&#34;https://cone.itch.io/hex-kit&#34;&gt;Hex Kit&lt;/a&gt; on &lt;a href=&#34;https://nobaraproject.org/&#34;&gt;my current desktop Linux distro&lt;/a&gt;, I found that the native Linux version &amp;ndash; unfortunately &amp;ndash; no longer runs &amp;ndash; or rather, it runs, but then crashes immediately.&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-[69232:0722/012218.684735:FATAL:gpu_data_manager_impl_private.cc(894)]&#34; data-lang=&#34;[69232:0722/012218.684735:FATAL:gpu_data_manager_impl_private.cc(894)]&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;My gut feeling is this is an incompatibility with Wayland &amp;ndash; Hex Kit hasn&amp;rsquo;t been updated in a couple of years and Wayland has seen pretty decent adoption since then. So I tried running it under &lt;a href=&#34;https://lutris.net/&#34;&gt;Lutris&lt;/a&gt; and found that it would run, but also very poorly, and the contents of all windows were just blank. Bars, but no windows. So close.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
