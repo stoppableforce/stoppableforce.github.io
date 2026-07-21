@@ -10,7 +10,7 @@ dateCreated: 2026-01-06T13:37:04.089Z
 ---
 # The Road to Ostro
 
-After being assured in [the prior conversation](/session_4) that Dr. Collodi could (and would) make it back to Bluewick along with her research assistants, the group decided to set out to the east towards [Orologio](/places/orologio), with the natural first stop being in [Ostro](/places/ostro).
+After being assured in [the prior conversation](session_4) that Dr. Collodi could (and would) make it back to Bluewick along with her research assistants, the group decided to set out to the east towards [Orologio](/places/orologio), with the natural first stop being in [Ostro](/places/ostro).
 
 The first couple of days of travel were uneventful. As the group began ascending into the forested mountains, they entered the territory of a trio of sliver cats -- unnatural creatures that bounded through the forest upside-down, striking intruders down with their eerily stretchy club-tails. Combat saw the group through, but this was only the beginning of what would prove to be a series of travel incidents.
 
