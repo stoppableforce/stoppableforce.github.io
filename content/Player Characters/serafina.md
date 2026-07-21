@@ -22,13 +22,13 @@ Stats:
 - WLP: d10
 
 Levels:
-- Entropist 6
-  - Absorb MP
-  - Entropic Magic (4) (Mirror, Drain Vigor, Anomaly, Dark Weapon)
-  - Stolen Time
+- Entropist 7
+  - Absorb MP (1)
+  - Entropic Magic (5) (Mirror, Drain Vigor, Anomaly, Dark Weapon, Umbra)
+  - Stolen Time (1)
 - Fury 4
-  - Indomitable Spirit
-  - Provoke
+  - Indomitable Spirit (1)
+  - Provoke (1)
   - Withstand (2)
 - Wayfarer 1
   - Well-Traveled

@@ -2,6 +2,9 @@
 title: Player Characters
 description: our dramatis personae
 ---
-- [Serafina](../Player Characters/serafina)
-- [Cynthia Schreiber](../Player Characters/cynthia-schreiber)
-- [Irving Glenn](../Player Characters/irving-glenn)
+# Player Characters
+- [Serafina](serafina)
+- [Cynthia Schreiber](cynthia-schreiber)
+- [Irving Glenn](irving-glenn)
+# Guest Characters
+- [Ysildea Roquellane](ysildea-roequellane)

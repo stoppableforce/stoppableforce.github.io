@@ -22,9 +22,10 @@ Stats:
 - WLP: d10
 
 Levels:
-- Elementalist 6
+- Elementalist 8
   - Ritual Elementalism
-  - Elemental Magic (5) (Fulgur, Ventus, Glacies, Ignis, Terra)
+  - Elemental Magic (6) (Fulgur, Ventus, Glacies, Ignis, Terra, Elemental Shroud)
+  - Cataclysm (1)
 - Spiritist 2
   - Spiritual Magic (2) (Heal, Torpor)
 - Chimerist 3

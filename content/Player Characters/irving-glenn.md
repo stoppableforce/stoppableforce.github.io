@@ -22,13 +22,13 @@ Stats:
 - WLP: d8
 
 Levels:
-- Orator 6
-  - Encourage (3)
+- Orator 9
+  - Encourage (6)
   - My Trust In You (2)
   - Persuasive
 - Loremaster 4
   - Flash of Insight
-  - Focused (4)
+  - Focused (3)
   
 Camp Activities: 
 - Cartography
