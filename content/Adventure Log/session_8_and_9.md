@@ -1,6 +1,6 @@
 ---
 title: Sessions 8 and 9
-date: February 27 and March 27, 2026
+date: February 27, 2026
 published: 1
 tags:
   - ostro
@@ -17,7 +17,6 @@ Serafina helps the crew repair the boat.
 Cynthia ponders her orb. The wave of revulsion at touching it is passing, but she hasn't seen what it does just yet.
 
 The group heads north up the river, opting to sail to Bihara.
-
 # Sailing to Bihara
 Along the way, the group encounters - and overcomes - several dangers.
 
@@ -29,8 +28,6 @@ Along the way, the group encounters - and overcomes - several dangers.
 Along the way, Serafina teaches Mero to curse ("Cursing is the language of the sea, that's why sailors speak it."); Mero adopts an eyepatch. Cynthia finally figures out the purpose of the [mysterious green orb](../Items/lifestream-orb).
 
 Northeast of Bihara the group stumbles across a [waterfall grotto](../Places/waterfall-grotto): a cave they can safely sail their ship into. Inside is a pool where the Lifestream surfaces, flowing freely. 
-
-
 # Bihara, the ravaged village
 Finally, the group approaches Bihara, and can tell even from the sea that their world tree sapling is burnt and blackened, similar to the one from the [Tower of Stars](../Places/tower-of-stars). Landing, they discover also that weirdly, all color is sapped from the area - everything appears in black and white - and that Bihara is empty of miasma.
 

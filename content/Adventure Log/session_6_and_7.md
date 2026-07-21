@@ -1,6 +1,6 @@
 ---
-title: Session 6 and 7
-date: January 23 and 30, 2026
+title: Sessions 6 and 7
+date: January 23, 2026
 published: 1
 tags:
   - ostro

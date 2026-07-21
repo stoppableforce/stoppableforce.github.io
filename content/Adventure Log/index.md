@@ -15,3 +15,9 @@ description: The DM's session notes
 [Session 6 and 7](session_6_and_7) - the party's time in Ostro and its surrounds
 
 [Session 8 and 9](session_8_and_9) - traveling to Bihara, a brief and disastrous visit, and the flight to Nuono
+
+[Session 10](session_10) - learning about, and relaxing in, Nuono; learning about the refugee crisis
+
+[Session 11](session_11) - make yourselves useful, adventurers!
+
+[Session 12](session_12.md) - adventuring to the Everdeep to retrieve the Metamorphic Horn
