@@ -4,12 +4,13 @@ date: August 29, 2025
 published: 1
 tags:
   - bluewick
+  - tower-of-stars
 editor: markdown
 dateCreated: 2025-12-18T16:42:14.510Z
 ---
 # Journey to the Tower of Stars
 
-A celestial waterfall was spotted at the [Tower of Stars](/places/tower-of-stars), near our starting town of [Bluewick](/places/bluewick). Volunteers were taken from those among the Lycaeum and the town capable of setting out, and a party of 5 was settled on -- magical scion [Cynthia Schreiber](/players/cynthia-schreiber), her attendants [Lucas](/npcs/lucas) and [Elma](/npcs/elma), disgraced scholar [Irving Glenn](/players/irving-glenn), and [Serafina](/players/serafina), a mysterious newcomer from beyond the mists.
+A celestial waterfall was spotted at the [Tower of Stars](../Places/tower-of-stars), near our starting town of [Bluewick](../Places/bluewick). Volunteers were taken from those among the Lycaeum and the town capable of setting out, and a party of 5 was settled on -- magical scion [Cynthia Schreiber](/players/cynthia-schreiber), her attendants [Lucas](/npcs/lucas) and [Elma](/npcs/elma), disgraced scholar [Irving Glenn](/players/irving-glenn), and [Serafina](/players/serafina), a mysterious newcomer from beyond the mists.
 
 The three of them ventured southeast towards the stars, carrying the town's water vessel with them and dealing with monsters along the way, most notably a trio of horse-sized cutterpillars. On reaching the Tower, they found that a red drake had made a home of sorts inside the abandoned mountain shrine; however, stealth won out, and the party not only filled their water vessel, they made a new friend -- the extremely mellow slime, [Mero](/npcs/mero).
 
