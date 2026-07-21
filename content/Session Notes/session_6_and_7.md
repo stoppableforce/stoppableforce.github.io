@@ -1,9 +1,10 @@
 ---
 title: Session 6 and 7
-description: January 23 and 30, 2026
+date: January 23 and 30, 2026
 published: 1
-date: 2026-05-08T23:05:39.414Z
-tags: 
+tags:
+  - ostro
+  - the-crawling-tower
 editor: markdown
 dateCreated: 2026-05-08T23:05:33.632Z
 ---

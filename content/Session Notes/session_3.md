@@ -1,9 +1,11 @@
 ---
 title: Session 3
-description: October 24, 2025
+date: October 24, 2025
 published: 1
-date: 2025-10-25T03:21:57.854Z
-tags: 
+tags:
+  - marilun
+  - library-under-the-mountain
+  - jeanne
 editor: markdown
 dateCreated: 2025-10-25T01:01:49.568Z
 ---

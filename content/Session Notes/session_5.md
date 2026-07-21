@@ -1,9 +1,10 @@
 ---
 title: Session 5
-description: December 10, 2025
+date: December 10, 2025
 published: 1
-date: 2026-05-08T22:54:10.283Z
-tags: 
+tags:
+  - ostro
+  - jeanne
 editor: markdown
 dateCreated: 2026-01-06T13:37:04.089Z
 ---

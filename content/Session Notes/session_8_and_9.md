@@ -1,9 +1,11 @@
 ---
 title: Sessions 8 and 9
-description: February 27 and March 27, 2026
+date: February 27 and March 27, 2026
 published: 1
-date: 2026-05-08T23:27:12.729Z
-tags: 
+tags:
+  - ostro
+  - bihara
+  - nuono
 editor: markdown
 dateCreated: 2026-05-08T23:24:31.096Z
 ---

@@ -1,9 +1,11 @@
 ---
 title: Session 2
-description: September 26, 2025
+date: September 26, 2025
 published: 1
-date: 2025-12-18T16:52:26.312Z
-tags: 
+tags:
+  - bluewick
+  - marilun
+  - library-under-the-mountain
 editor: markdown
 dateCreated: 2025-12-18T16:52:18.862Z
 ---

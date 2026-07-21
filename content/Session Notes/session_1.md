@@ -1,9 +1,9 @@
 ---
 title: Session 1
-description: August 29, 2025
+date: August 29, 2025
 published: 1
-date: 2025-12-18T16:42:48.724Z
-tags: 
+tags:
+  - bluewick
 editor: markdown
 dateCreated: 2025-12-18T16:42:14.510Z
 ---

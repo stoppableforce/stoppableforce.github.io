@@ -1,9 +1,9 @@
 ---
-title: "Intermission: Breakfast with Dr. Collodi"
-description: November 11 to December 18, 2025
+title: Session 4
+date: November 11 to December 18, 2025
 published: 1
-date: 2025-12-19T16:45:45.728Z
-tags: 
+tags:
+  - marilun
 editor: markdown
 dateCreated: 2025-12-19T16:45:39.105Z
 ---
