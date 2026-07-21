@@ -1,5 +1,5 @@
 ---
-title: Quest Log
+title: Adventure Log
 description: The DM's session notes
 ---
 [Session 1](session_1) - the journey to and from the Tower of Stars
