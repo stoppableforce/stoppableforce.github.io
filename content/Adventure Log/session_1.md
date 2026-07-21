@@ -1,0 +1,19 @@
+---
+title: Session 1
+date: August 29, 2025
+published: 1
+tags:
+  - bluewick
+  - tower-of-stars
+editor: markdown
+dateCreated: 2025-12-18T16:42:14.510Z
+---
+# Journey to the Tower of Stars
+
+A celestial waterfall was spotted at the [Tower of Stars](../Places/tower-of-stars), near our starting town of [Bluewick](../Places/bluewick). Volunteers were taken from those among the Lycaeum and the town capable of setting out, and a party of 5 was settled on -- magical scion [Cynthia Schreiber](../Player Characters/cynthia-schreiber), her attendants [Lucas](../NPCs/lucas) and [Elma](../NPCs/elma), disgraced scholar [Irving Glenn](../Player Characters/irving-glenn), and [Serafina](../Player Characters/serafina), a mysterious newcomer from beyond the mists.
+
+The three of them ventured southeast towards the stars, carrying the town's water vessel with them and dealing with monsters along the way, most notably a trio of horse-sized cutterpillars. On reaching the Tower, they found that a red drake had made a home of sorts inside the abandoned mountain shrine; however, stealth won out, and the party not only filled their water vessel, they made a new friend -- the extremely mellow slime, [Mero](../NPCs/mero).
+
+On the way out, someone inspected what clearly used to be a sapling of the World Tree here, and found that the remaining root structure was blackened and withered -- with the damage patterns making it seem as if it had been drained from below, not burned from above.
+
+With their water in tow, the party headed back towards town and found their way back to Bluewick with the necessary water for the town's tree.
