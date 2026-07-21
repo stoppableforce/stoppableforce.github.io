@@ -7,4 +7,4 @@ description: our dramatis personae
 - [Cynthia Schreiber](cynthia-schreiber)
 - [Irving Glenn](irving-glenn)
 # Guest Characters
-- [Ysildea Roquellane](ysildea-roequellane)
+- [Ysildea Roquellane](ysildea)
