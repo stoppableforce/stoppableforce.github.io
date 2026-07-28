@@ -7,6 +7,8 @@ tags:
 ---
 _When you exit the Everdeep, several cutscenes will play in sequence. It is recommended that you set aside sufficient time to view these scenes in their entirety._
 
+---
+
 Even in [Orologio](places/orologio.md), whose skyline is dominated by multiple colossal towers where its residents live, work, and play, Pascal's Tower remains the grandest. Its colossal gears turn smoothly, forming a background hum that the residents of the Clockwork City don't even notice anymore. High up on the side of that tower, overlooking the city, is Marguerite's -- a cafe that is a favorite among not just the residents of Pascal's Tower, but of the entire city; balcony tables at Marguerite's are something of a rarity. It helps be lucky, rich, important, or all three.
 
 One table, however, is reserved every day. Normally this table is reserved solely for Isidore, the newest of the Mechatriarchs; his rise from an unknown tinker to one of the seats of power in Orologio is something whispered about by any gossipmonger in the city, but in general he's viewed as one of the more approachable and benevolt of the Mechatriarchy, so they tend to do it out of earshot. From his table on the balcony at Marguerite's, Isidore holds court each day, treating all who approach him with equal consideration and promising to take their concerns to his fellows on the ruling council. This morning, however, Isidore has a guest.
