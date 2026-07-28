@@ -1,5 +1,5 @@
 ---
-title: Sessions 8 and 9
+title: Session 8 and 9
 date: February 27, 2026
 published: 1
 tags:

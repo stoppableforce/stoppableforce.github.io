@@ -1,5 +1,5 @@
 ---
-title: Sessions 6 and 7
+title: Session 6 and 7
 date: January 23, 2026
 published: 1
 tags:
