@@ -21,3 +21,5 @@ description: The DM's session notes
 [Session 11](session_11) - make yourselves useful, adventurers!
 
 [Session 12](session_12.md) - adventuring to the Everdeep to retrieve the Metamorphic Horn
+
+[Intermission/Cutscene](session_12_13_interlude_cutscene.md) - catching up with old friends. Elsewhere, ominous portents in the skies.
