@@ -111,8 +111,6 @@ plugins:
     enabled: true
   - source: github:quartz-community/remove-draft
     enabled: true
-  - source: github:quartz-community/lightbox
-    enabled: true
   - source: github:quartz-community/explicit-publish
     enabled: false
   - source: github:quartz-community/unlisted-pages
