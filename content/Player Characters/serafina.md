@@ -22,10 +22,11 @@ Stats:
 - WLP: d10
 
 Levels:
-- Entropist 7
+- Entropist 8
   - Absorb MP (1)
   - Entropic Magic (5) (Mirror, Drain Vigor, Anomaly, Dark Weapon, Umbra)
   - Stolen Time (1)
+  - Lucky Seven
 - Fury 4
   - Indomitable Spirit (1)
   - Provoke (1)

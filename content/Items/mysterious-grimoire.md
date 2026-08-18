@@ -24,7 +24,8 @@ Currently owned by [Irving Glenn](../Players/irving-glenn), the mysterious grimo
 
 1. What does this map mean, and how does it work? (referring to the map in the [library map room](../Places/library-under-mountain))
 	- Troop movements, according to the grimoire. The playing pieces likely represent troops or soldiers, and the pieces on the map move corresponding to something similar in their possession via sympathetic magic.
-2.
+2. How do we fix the miasma? _(After putting this together with other research on the matter.)_
+	- It seems like the miasma originates around the same time as the World Tree's influence over the flow of the lifestream began to wane. In order to fix the problem with the miasma, fix the World Tree.
 3.
 4.
 5.
