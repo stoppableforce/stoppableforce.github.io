@@ -23,3 +23,5 @@ description: The DM's session notes
 [Session 12](session_12.md) - adventuring to the Everdeep to retrieve the Metamorphic Horn
 
 [Intermission/Cutscene](session_12_13_interlude_cutscene.md) - catching up with old friends. Elsewhere, ominous portents in the skies.
+
+[Session 13](session_13.md) - finishing up business in Nuono, and prepping to retake Bihara from the Phantom Hunger
