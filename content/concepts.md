@@ -21,7 +21,7 @@ Engulfed in a fog that would later be known as the miasma, the world tree has no
 
 A noxious fog that appeared in the absence of the world tree. Exactly what it is, where it comes from, and where it goes -- or doesn't go -- are an ongoing matter of study, and a dangerous one in a world that the miasma is harmful to.
 
-Though study via the [Lifestream Orb](../Items/lifestream-orb), Cynthia discovered what many scholars have been trying to find out for years: the miasma is a mass of souls that should have returned to the Lifestream, but haven't. _Why_ is still an open question. Irving later further clarified (through research and consultation with his [mysterious grimoire](mysterious-grimoire.md) that the World Tree is somehow responsible for the flow of the Lifestream, and that something has gone wrong with it; fixing the World Tree should fix the miasma problem.
+Though study via the [Lifestream Orb](../Items/lifestream-orb), Cynthia discovered what many scholars have been trying to find out for years: the miasma is a mass of souls that should have returned to the Lifestream, but haven't. _Why_ is still an open question. Irving later further clarified (through research and consultation with his [mysterious grimoire](mysterious-grimoire.md)) that the World Tree is somehow responsible for the flow of the Lifestream, and that something has gone wrong with it; fixing the World Tree should fix the miasma problem.
 
 Learning the truth of the miasma is the goal of many a scholar, but studying it has proven difficult due to a few factors: when dealt with outside of the protection of a world tree sapling, it's poisonous, but when brought *inside* a world tree sapling's barrier, the miasma dissipates. 
 
