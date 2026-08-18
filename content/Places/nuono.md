@@ -30,7 +30,7 @@ Features added by the players:
 
 NPCs encountered in Nuono:
 - Keyra and Jessie (both she/her) -- young refugee girls, encountered in the Lily Grotto Inn
-- Reza, Ando (both he/him) and Matulele (she/they) -- refugees from Bihara. Reza was the alchemist who left the Mermaid Potions behind in his shop.
+- [Reza and Ando](Reza%20and%20Ando.md) (both he/him) and Matulele (she/they) -- refugees from Bihara. Reza was the alchemist who left the Mermaid Potions behind in his shop.
 - Elise (she/her) -- an elderly Nuonian at the market who spoke with Serafina
 - Ismene (they/them) -- Queen Veris III's adjutant, perpetually busy managing the crowds at the People's Palace.
 - Eludora, Metis, Halira, Theodre, Kyrtaar, Rania, Qamara, and Merope (all she/her except Kyrtaar, he/they) -- various Nuonian knights

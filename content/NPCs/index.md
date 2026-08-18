@@ -14,5 +14,6 @@ dateCreated: 2025-10-14T17:52:13.729Z
 - [Galeran Avelot](../NPCs/galeran-avelot)
 - [Elma Schultz](elma.md)
 - [Lucas Ratzinger](lucas.md)
+- [Reza and Ando](Reza%20and%20Ando.md)
 ## Enemies
 - [Scholar Knight Jeanne](../NPCs/scholar-knight-jeanne)
