@@ -1,9 +1,10 @@
 ---
-title: Out of Nuono
+title: Session 14
 tags:
   - nuono
   - bihara
 ---
+# Out of Nuono
 After a successful trip into the Everdeep in [the prior session](session_12.md), the party brings the [Metamorphic Horn](Metamorphic%20Horn.md) back to Nuono and to Queen Ismene. The next morning, the party is invited to a ceremony to see its usage; with a long and soundless toot on the horn, the Queen expands the bubble surrounding the residential district such that it wraps around the city and reconnects on the east, creating a large area of protected land in which new homes can be grown and those residents of Bihara that wish to stay can do so.
 
 As another form of thanks, the Queen takes the party to the vaults below the People's Palace, holding treasure brought back by Nuonian explorers in ages past, traders visiting the city, and so forth. They each choose two, with Serafina taking the [Rebel Yell](Rebel%20Yell.md) and the [Wool Cuirass](Wool%20Cuirass.md), Cynthia the [Azotophore](Azotophore.md) and [Living Kelp Cloak](Living%20Kelp%20Cloak.md), and Irving the [Camera Obscura](Camera%20Obscura.md) and [Engineer's Jacket](Engineer's%20Jacket.md). Asking an additional favor, they visit the forbidden section of the library for research, containing tablets deemed to contain information too dangerous to circulate widely.
