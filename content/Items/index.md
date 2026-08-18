@@ -14,11 +14,17 @@ This is where you can find your 99 Elixirs at endgame. But don't use one -- what
 - [Miner's Pickaxe](miners-pickaxe)
 - [Sharktooth Staff](sharktooth-staff)
 - [Fisherman's Horizon](fishermans-horizon)
+- [Azotophore](Azotophore.md)
+- [Camera Obscura](Camera%20Obscura.md)
+- [Rebel Yell](Rebel%20Yell.md)
 ## Armor
 - [Miner's Jacket](miner-jacket)
 - [Utility Apron](utility-apron)
 - [Cloak of Pages](cloak-of-pages)
 - [Aqua Scarf](aqua-scarf)
+- [Engineer's Jacket](Engineer's%20Jacket.md)
+- [Living Kelp Cloak](Living%20Kelp%20Cloak.md)
+- [Wool Cuirass](Wool%20Cuirass.md)
 ## Accesories
 - [Mechanical Canary](mechanical-canary)
 - [Waterborne Ring](waterborne-ring)
