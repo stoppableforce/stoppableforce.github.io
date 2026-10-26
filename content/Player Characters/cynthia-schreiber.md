@@ -42,10 +42,6 @@ Bonds:
 - [Jeanne](/npcs/scholar-knight-jeanne) (mistrust)
 - [Irving](irving-glenn) (admiration, loyalty)
 
-Notable Equipment:
-- [Luminaire's Mace](../Items/luminaires-mace): a light-infused mace gifted to her by Luminaire Foscari.
-- [Lifestream Orb](../items/lifestream-orb): a relic that allows one to view the flow of soul energy, a.k.a. the Lifestream.
-
 Quirk: Stubborn Scion -- Cynthia is (accompanied by/saddled with) two retainers from her family, [Lucas Ratzinger](../NPCs/lucas) (a scribe and manservant) and [Elma Schultz](../NPCs/elma) (handmaid and bodyguard).
 ## Background
 Cynthia comes from a wealthy and scholarly family, some of the largest donors to the Lycaeum going back ages past, and so the fact she was sent to study there was never in doubt. Nor was the fact she would be accompanied by two retainers from her family there to fuss over her. She's quite hungry for magic.

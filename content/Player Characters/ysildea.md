@@ -37,10 +37,6 @@ Bonds:
 - Queen Veris III (admiration, affection, loyalty)
 - [Irving Glenn](irving-glenn) (admiration)
 
-Notable Equipment:
-* Jetstream Glaive: A multi-pronged thrown weapon modeled on the signature weapon of the Nuonian knights, enchanted to deal ice damage and ignore resistances.
-* Merfolk Tunic: Lightweight armor that allows the user to recover from a status effect when they perform a dance with a duration of "Until the start of your next turn."
-
 Quirk: Big Sis -- Your travel companions know they can rely on you when it’s time to make camp and catch a precious breath among the constant pressure of your adventure. Who taught you to care for others? Is there anyone among the other Player Characters you see as a younger brother or sister? What special promise did you make them?
 
 If your group’s campaign does not make use of the optional rule **Camp Activities** (see _Natural Fantasy Atlas_ page **130**), your character still gains access to it.

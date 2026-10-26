@@ -25,3 +25,5 @@ description: The DM's session notes
 [Intermission/Cutscene](session_12_13_interlude_cutscene.md) - catching up with old friends. Elsewhere, ominous portents in the skies.
 
 [Session 13](session_13.md) - finishing up business in Nuono, and prepping to retake Bihara from the Phantom Hunger
+
+[Session 14](session_14.md) - the Battle of Bihara

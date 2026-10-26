@@ -22,10 +22,10 @@ Stats:
 - WLP: d10
 
 Levels:
-- Entropist 8
+- Entropist 9
   - Absorb MP (1)
   - Entropic Magic (5) (Mirror, Drain Vigor, Anomaly, Dark Weapon, Umbra)
-  - Stolen Time (1)
+  - Stolen Time (2)
   - Lucky Seven
 - Fury 4
   - Indomitable Spirit (1)
@@ -42,10 +42,6 @@ Bonds:
 - [Cynthia](cynthia-schreiber) (admiration, affection)
 - [Irving](irving-glenn) (loyalty, affection)
 - [Mero](../NPCs/mero) (loyalty, affection)
-
-Notable Equipment:
-- Cannon Gauntlets: A pair of transforming heavy gauntlets that can turn into short-range cannons.
-- [Fisherman's Horizon](../Items/fishermans-horizon): A lightning-based spear that she won in the fishing game in Ostro.
 
 Quirk: Robot -- Serafina's artificial body protects her from the effects of the miasma, as well as making her resistant to earth magic and immune to poison; however, you'd never be able to tell from looking at her that she's anything other than an enthusiastic young human girl.
 
